@@ -46,7 +46,7 @@ const products = [
 function Logo() {
   return (
     <div className="logo" aria-label="https://res.cloudinary.com/nqotqftf/image/upload/v1788372111/simple_logo_black_gold_v2.jpg">
-      <div className="logo-mark">SF</div>
+      <div className="logo-mark">SSFF</div>
       <span>SCENTFUSED</span>
     </div>
   );

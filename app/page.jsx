@@ -21,32 +21,32 @@ const products = [
     image: "https://res.cloudinary.com/nqotqftf/image/upload/v1788457281/Midnight_VELVET_v1_TRANS.png"
   },
   {
-    name: "Bergamot & Mint",
+    name: "Oud Al Fawad",
     notes: "Fresh, green, everyday uplift",
     tags: ["Bergamot", "Mint", "Tea Tree"],
-    price: "Rs79",
-    image: "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=1000&q=80"
+    price: "Rs 3000",
+    image: "https://res.cloudinary.com/nqotqftf/image/upload/v1788457558/Oud_Al_Fawad_v2_jpeg_trans.png"
   },
   {
-    name: "Vanilla Amber",
+    name: "French D'Amber",
     notes: "Sweet, warm and universally adored",
     tags: ["Vanilla", "Amber", "Benzoin"],
-    price: "Rs139",
+    price: "Rs 3000",
     image: "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?auto=format&fit=crop&w=1000&q=80"
   },
   {
-    name: "Fresh Linen",
+    name: "Royal Absolu",
     notes: "Clean, airy, everyday essential",
     tags: ["Linen", "Aqua", "Light Musk"],
-    price: "Rs139",
-    image: "https://images.unsplash.com/photo-1619451334792-150fd785ee74?auto=format&fit=crop&w=1000&q=80"
+    price: "Rs 3000",
+    image: "https://res.cloudinary.com/nqotqftf/image/upload/v1788457558/Royal_Absolu_v1_trans.png"
   }
 ];
 
 function Logo() {
   return (
     <div className="logo" aria-label="https://res.cloudinary.com/nqotqftf/image/upload/v1788372111/simple_logo_black_gold_v2.jpg">
-      <div className="logo-mark">SSFF</div>
+      <div className="logo-mark" image: "https://res.cloudinary.com/nqotqftf/image/upload/v1788457558/Royal_Absolu_v1_trans.png" >SF</div>
       <span>SCENTFUSED</span>
     </div>
   );

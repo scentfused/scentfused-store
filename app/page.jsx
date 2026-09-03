@@ -1,24 +1,24 @@
 const products = [
   {
-    name: "Noir Blanc",
+    name: "Midnight Noir",
     notes: "Tiare flower, coconut, warm cedarwood",
     tags: ["Tiare", "Coconut", "Cedar"],
-    price: "Rs849",
-    image: "https://images.unsplash.com/photo-1594035910387-fea47794261f?auto=format&fit=crop&w=1000&q=80"
+    price: "Rs3000",
+    image: "https://res.cloudinary.com/nqotqftf/image/upload/v1788457281/midnight_noir_V2_jpeg_trans.png"
   },
   {
-    name: "Amber Mist",
+    name: "Midnight Blush",
     notes: "Golden amber, cardamom, driftwood",
     tags: ["Amber", "Cardamom", "Wood"],
-    price: "Rs549",
-    image: "https://images.unsplash.com/photo-1541643600914-78b084683601?auto=format&fit=crop&w=1000&q=80"
+    price: "Rs3000",
+    image: "https://res.cloudinary.com/nqotqftf/image/upload/v1788457281/Midnight_Blush_v1_jpeg_trans.png"
   },
   {
-    name: "Sea Salt & Sun",
+    name: "Midnight Velvet",
     notes: "Refreshing aquatic, energizing burst",
     tags: ["Sea Salt", "Lime", "Sugarcane"],
-    price: "Rs229",
-    image: "https://images.unsplash.com/photo-1556228578-8c89e6adf883?auto=format&fit=crop&w=1000&q=80"
+    price: "Rs3000",
+    image: "https://res.cloudinary.com/nqotqftf/image/upload/v1788457281/Midnight_VELVET_v1_TRANS.png"
   },
   {
     name: "Bergamot & Mint",

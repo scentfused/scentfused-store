@@ -32,7 +32,7 @@ const products = [
     notes: "Sweet, warm and universally adored",
     tags: ["Vanilla", "Amber", "Benzoin"],
     price: "Rs 3000",
-    image: "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?auto=format&fit=crop&w=1000&q=80"
+    image: "https://res.cloudinary.com/nqotqftf/image/upload/v1788457558/French_D_Amber_v1_jpeg_trans.png"
   },
   {
     name: "Royal Absolu",

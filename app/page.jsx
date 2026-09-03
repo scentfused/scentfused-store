@@ -46,7 +46,9 @@ const products = [
 function Logo() {
   return (
     <div className="logo" >
-      <div className="logo-mark">SF</div>
+      <div className="logo-mark"
+      <img src={"https://res.cloudinary.com/nqotqftf/image/upload/v1788457558/Royal_Absolu_v1_trans.png"} alt="Scentfused Icon" />
+      >SF</div>
       <span>SCENTFUSED</span>
     </div>
   );
